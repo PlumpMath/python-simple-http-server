@@ -1,13 +1,11 @@
-python-simple-http-server
-=========================
+
 
 Simple Http Server in Python
+============================
+
+A quick way to create an http server in python
 
 
-A way to create a quick http server in python
-
-
-```python
-python http.py 8080
-
+```
+$ python http.py 8080
 ```
